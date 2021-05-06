@@ -15,6 +15,7 @@
   Download the [Source code](https://github.com/akhsi1/Zendesk_Challenge) and open the project in IntelliJ.
   
   > Note: You will need a valid auth token for the program to work via source code
+  > ```java private final String zendeskToken = ""; // Enter the Authentication Token here```
 
 ## Alternatively
   Open Console and ```cd``` to file directory
