@@ -1,7 +1,7 @@
 # Zendesk Intern Code Challenge
 # Version 1.0 of Ticket Viewer is here!
 ### [Download Ticket Viewer v1.0](https://github.com/akhsi1/Zendesk_Challenge/releases/download/1.0/Zendesk_Challenge_v1.0.zip)
-### [Test Report v1.0](https://github.com/akhsi1/Zendesk_Challenge/raw/master/Test%20Report%20(Ticket%20Viewer%20v.1.0).pdf)
+### [Testing Report v1.0](https://github.com/akhsi1/Zendesk_Challenge/raw/master/Test%20Report%20(Ticket%20Viewer%20v.1.0).pdf)
 
 # Installation
 ## Mac OS
