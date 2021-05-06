@@ -14,7 +14,7 @@
 ## IDE - IntelliJ
   Download the [Source code](https://github.com/akhsi1/Zendesk_Challenge) and open the project in IntelliJ.
   
-  > Note: You will need a valid auth token for the program to work from source code
+  > Note: You will need a valid auth token for the program to work via source code
 
 ## Alternatively
   Open Console and ```cd``` to file directory
