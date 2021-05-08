@@ -21,7 +21,7 @@
 
 ## Alternatively
   Open Console and ```cd``` to file directory
-  Enter ``` -jar Zendesk_Challenge.jar```
+  Enter ``` java -jar Zendesk_Challenge.jar```
 
 > Note: Java JDK must be installed on your device for this program to work
 
